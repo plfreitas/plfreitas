@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Luis, tenho 20 anos e sou do RJ. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sempre preferi resolver problemas invés de reclamar deles. Isso e minha curiosidade por tecnologia desde novo, me trouxeram até a programação. Em minha paixão que surgiu por essa área vem o desejo de sempre querer ir além e ser desafiado.
+Me chamo Pedro Luis, tenho 20 anos e sou do RJ. Atualmente, estou cursando Ciência da Computação na UNESA. Sempre preferi resolver problemas invés de reclamar deles. Isso e minha curiosidade por tecnologia desde novo, me trouxeram até a programação. Em minha paixão que surgiu por essa área vem o desejo de sempre querer ir além e ser desafiado.
 
 <p align="left">
     <a href="https://www.youtube.com/@burucabiraca?sub_confirmation=1">
