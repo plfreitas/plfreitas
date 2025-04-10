@@ -42,8 +42,8 @@ Desenvolvi uma verdadeira paixão pela área, e com ela veio o desejo constante 
 
   <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="LINUX"
+    title="LINUX" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/linux/original.svg">
