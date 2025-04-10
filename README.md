@@ -94,7 +94,7 @@ Desenvolvi uma verdadeira paixão pela área, e com ela veio o desejo constante 
     title="LINUX" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/linux/original.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
 <br/>
