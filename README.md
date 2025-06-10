@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Luis, tenho 20 anos e sou do Rio de Janeiro. Atualmente, curso Ciência da Computação na UNESA. Sempre acreditei que é mais produtivo buscar soluções do que focar nos problemas — e essa mentalidade, somada à minha curiosidade por tecnologia desde a infância, foi o que me levou à programação.
+Me chamo Pedro Luis, tenho 21 anos e sou do Rio de Janeiro. Atualmente, curso Ciência da Computação na UNESA. Sempre acreditei que é mais produtivo buscar soluções do que focar nos problemas — e essa mentalidade, somada à minha curiosidade por tecnologia desde a infância, foi o que me levou à programação.
 Desenvolvi uma verdadeira paixão pela área, e com ela veio o desejo constante de aprender mais, superar desafios e ir além dos limites do convencional.
 
 <p align="left">
