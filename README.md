@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Luis
 
-**`Desenvolvedor FullStack,
+**`Desenvolvedor,
 Analista de Dados e Editor de Vídeos`**
 
 Me chamo Pedro Luis, tenho 21 anos e sou do Rio de Janeiro. Atualmente curso o 4º semestre de Ciência da Computação e estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com resultados e crescer profissionalmente.
