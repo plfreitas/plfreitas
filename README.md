@@ -3,7 +3,7 @@
 **`Desenvolvedor,
 Analista de Dados e Editor de Vídeos`**
 
-Me chamo Pedro Luis, tenho 21 anos e sou do Rio de Janeiro. Atualmente curso o 4º semestre de Ciência da Computação e estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com resultados e crescer profissionalmente.
+Me chamo Pedro Luis, tenho 21 anos e sou do Rio de Janeiro. Atualmente curso o 5º semestre de Ciência da Computação e estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com resultados e crescer profissionalmente.
 Sempre gostei de transformar problemas em soluções, e foi essa forma de pensar, junto com minha curiosidade por tecnologia desde cedo, que me levou à programação. Tenho paixão por aprender, me desafiar e buscar constantemente novas maneiras de evoluir.
 
 <p align="left">
