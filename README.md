@@ -1,10 +1,10 @@
 # 👨‍💻 Pedro Luis
 
-**`Estagiário de Infraestrutura TI | Desenvolvedor Fullstack | Analista de Dados`**
+**`Estagiário de Infraestrutura TI, Desenvolvedor,
+Analista de Dados e Editor de Vídeos`**
 
 Me chamo Pedro Luis, tenho 21 anos e sou do Rio de Janeiro. Atualmente curso o 5º semestre de Ciência da Computação e estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com resultados e crescer profissionalmente.
-
-Sempre gostei de transformar problemas em soluções. Essa mentalidade, unida à minha curiosidade por tecnologia, me levou à programação. Tenho paixão por aprender, me desafiar e dominar novas stacks, indo do Banco de Dados ao Frontend moderno.
+Sempre gostei de transformar problemas em soluções, e foi essa forma de pensar, junto com minha curiosidade por tecnologia desde cedo, que me levou à programação. Tenho paixão por aprender, me desafiar e buscar constantemente novas maneiras de evoluir.
 
 <p align="left">
     <a href="https://www.youtube.com/@burucabiraca?sub_confirmation=1">
@@ -14,7 +14,7 @@ Sempre gostei de transformar problemas em soluções. Essa mentalidade, unida à
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCklScVfLDAL5WSHfmBk-GoQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@burucabiraca">
+    <a href="hhttps://www.youtube.com/@burucabiraca">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -41,22 +41,70 @@ Sempre gostei de transformar problemas em soluções. Essa mentalidade, unida à
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block">
-    <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img align="left" alt="Tailwind" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    
-    <img align="left" alt="NodeJS" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-    <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+ <img 
+    align="left" 
+    alt="LINUX"
+    title="LINUX" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
 
 <br/>
 <br/>
@@ -72,9 +120,9 @@ Sempre gostei de transformar problemas em soluções. Essa mentalidade, unida à
     src="https://github-readme-stats.vercel.app/api?username=plfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
+<img 
       align="left" 
-      alt="Top Langs" 
+      alt="GitHub Stats" 
       height="200"
       style="padding-right: 10px;"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
