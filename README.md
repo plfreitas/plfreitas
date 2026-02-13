@@ -1,130 +1,68 @@
-# 👨‍💻 Pedro Luis
+# Olá, eu sou o Pedro Luis! 👋
+### 🎓 Cientista da Computação em Formação & Estagiário de Infraestrutura TI
 
-**`Estagiário de Infraestrutura TI, Desenvolvedor,
-Analista de Dados e Editor de Vídeos`**
+Sou um entusiasta de tecnologia apaixonado por transformar problemas complexos em soluções digitais. Atualmente, atuo na **Infraestrutura de TI** garantindo a operação de sistemas corporativos e desenvolvo projetos Fullstack que integram jogos e web.
 
-Me chamo Pedro Luis, tenho 21 anos e sou do Rio de Janeiro. Atualmente curso o 5º semestre de Ciência da Computação e estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com resultados e crescer profissionalmente.
-Sempre gostei de transformar problemas em soluções, e foi essa forma de pensar, junto com minha curiosidade por tecnologia desde cedo, que me levou à programação. Tenho paixão por aprender, me desafiar e buscar constantemente novas maneiras de evoluir.
-
-<p align="left">
-    <a href="https://www.youtube.com/@burucabiraca?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCklScVfLDAL5WSHfmBk-GoQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="hhttps://www.youtube.com/@burucabiraca">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCklScVfLDAL5WSHfmBk-GoQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/plfreitas?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/plfreitas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-       />
-    </a>
-    <a href="https://github.com/plfreitas?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/plfreitas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Recentemente, tenho explorado o mundo da **Inteligência Artificial Agêntica** e **Automação de Dados**, buscando unir o desenvolvimento clássico com as novas fronteiras da IA.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
- <img 
-    align="left" 
-    alt="LINUX"
-    title="LINUX" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
+### 💻 Desenvolvimento Fullstack & Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
-<br/>
+### 🤖 Inteligência Artificial & Automação (Novo!)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Estatísticas
+### 📊 Dados & Infraestrutura
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=plfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;"  
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+## 🚀 Projeto em Destaque: PokeHeaven
+
+> **Plataforma Fullstack de Jogo Integrada** > *Stack: React, Node.js, MySQL, VPS Local*
+
+Desenvolvi o ecossistema web completo para o servidor de jogo **PokeHeaven**. O projeto vai além de um site institucional, funcionando como uma aplicação integrada ao banco de dados do jogo em tempo real.
+
+* ✅ **Integração Real-Time:** O site lê dados da VPS do jogo para exibir status online e rankings ao vivo.
+* ✅ **Sistema de Contas:** Registro e Login com validações de segurança e hashing.
+* ✅ **Infraestrutura:** Migrado de arquitetura Cloud/Serverless para VPS Dedicada para latência zero.
+
+[🔗 Ver Repositório](https://github.com/plfreitas/pokeheaven-site)
+
+---
+
+## 📜 Certificações Recentes
+
+* **Imersão Agentes de IA** (Hashtag Treinamentos) - Foco em orquestração de IAs com n8n e LangGraph.
+* **Power BI & Excel Avançado** - Análise e visualização de dados corporativos.
+* **Desenvolvimento Web Moderno** - React e Ecossistema JavaScript.
+
+---
+
+## 💼 Experiência
+
+**Estagiário de Infraestrutura de TI @ CF Contabilidade**
+* Gerenciamento e suporte de hardware e redes.
+* Automação de processos internos e suporte ao usuário.
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/pedroluissantosfreitas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
