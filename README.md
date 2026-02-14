@@ -62,10 +62,10 @@ Desenvolvi o ecossistema web completo para o servidor de jogo **PokeHeaven**. O 
 ---
 
 ### 📊 Atividade no GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=plfreitas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfreitas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
-</p>
+
+| Estatísticas Gerais | Linguagens Mais Usadas |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=plfreitas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfreitas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" /> |
 
 ---
 
