@@ -53,11 +53,13 @@ Desenvolvi o ecossistema web completo para o servidor de jogo **PokeHeaven**. O 
 
 ---
 
-## 💼 Experiência
+### 💼 Experiência
 
 **Estagiário de Infraestrutura de TI @ CF Contabilidade**
-* Manutenção de infraestrutura, redes locais e suporte a hardware.
-* Otimização de rotinas internas e atendimento ao usuário.
+
+* **Sistemas & Dados:** Suporte e configuração de ecossistema de ERPs Contábeis (Domínio, Alterdata, Onvio) e bancos de dados locais.
+* **Infraestrutura:** Manutenção de hardware, redes e implementação de soluções para alta disponibilidade.
+* **Automação:** Foco em otimizar rotinas manuais e integração entre ferramentas de gestão.
 
 ---
 
