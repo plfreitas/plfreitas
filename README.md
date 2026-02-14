@@ -1,11 +1,14 @@
 # Olá, eu sou o Pedro Luis! 👋
-### 🎓 Cientista da Computação em Formação & Estagiário de Infraestrutura TI
+
+### 🚀 Estagiário de Infraestrutura | Desenvolvedor Fullstack | Analista de Dados
+
+> **Foco:** Redes, Virtualização, Segurança, IA Agêntica e Desenvolvimento Web.
+>
+> **Tech Stack:** Python • SQL • Power BI • JavaScript • Linux • Cloud
 
 Sou um entusiasta de tecnologia apaixonado por transformar problemas complexos em soluções digitais. Atualmente, atuo na **Infraestrutura de TI** garantindo a operação de sistemas corporativos e desenvolvo projetos Fullstack que integram jogos e web.
 
 Recentemente, tenho explorado o mundo da **Inteligência Artificial Agêntica** e **Automação de Dados**, buscando unir o desenvolvimento clássico com as novas fronteiras da IA.
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
