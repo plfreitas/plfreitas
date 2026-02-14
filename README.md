@@ -56,8 +56,16 @@ Desenvolvi o ecossistema web completo para o servidor de jogo **PokeHeaven**. O 
 ## 💼 Experiência
 
 **Estagiário de Infraestrutura de TI @ CF Contabilidade**
-* Gerenciamento e suporte de hardware e redes.
-* Automação de processos internos e suporte ao usuário.
+* Manutenção de infraestrutura, redes locais e suporte a hardware.
+* Otimização de rotinas internas e atendimento ao usuário.
+
+---
+
+### 📊 Atividade no GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=plfreitas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfreitas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+</p>
 
 ---
 
@@ -65,7 +73,7 @@ Desenvolvi o ecossistema web completo para o servidor de jogo **PokeHeaven**. O 
   <a href="https://linkedin.com/in/pedroluissantosfreitas">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:pedroluis.santosfreitas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
