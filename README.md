@@ -41,7 +41,7 @@ Desenvolvi o ecossistema web completo para o servidor de jogo **PokeHeaven**. O 
 * ✅ **Sistema de Contas:** Registro e Login com validações de segurança e hashing.
 * ✅ **Infraestrutura:** Migrado de arquitetura Cloud/Serverless para VPS Dedicada para latência zero.
 
-[🔗 Ver Repositório](https://github.com/plfreitas/pokeheaven-site)
+[🔗 Ver Repositório](https://github.com/plfreitas/pokeheaven-site-preview)
 
 ---
 
