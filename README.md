@@ -6,7 +6,23 @@
 >
 > **Tech Stack:** Python • TypeScript • React • Node.js • Supabase • PostgreSQL • n8n • Tauri • Power BI • Linux
 
-Sou um desenvolvedor apaixonado por construir ecossistemas de software robustos, de alta performance e visualmente impressionantes. Combinando uma base sólida em **Infraestrutura de TI** com o **Desenvolvimento Full Stack**, me especializei em criar portais de operações, motores de conciliação financeira e fluxos inteligentes com **Agentes de IA**.
+Sou um desenvolvedor apaixonado por construir ecossistemas de software robustos, de alta performance e visualmente impressionantes. Combinando uma base sólida em **Infraestrutura de TI e Service Desk Corporativo** com o **Desenvolvimento Full Stack**, me especializei em criar portais de operações, automação de processos em nuvem e fluxos com **Agentes de IA**.
+
+---
+
+## 💼 Experiência & Atuação
+
+**IT Service Desk Intern | [Intelie](https://www.intelie.ai)**  
+*Setembro de 2026 – Presente | Rio de Janeiro, RJ*
+* **Suporte Técnico N1/N2 & Infraestrutura:** Atendimento presencial e remoto a colaboradores em ecossistemas Windows e macOS via Jira Service Management.
+* **Gestão de Identidade (IAM):** Provisionamento e ciclo de vida de contas (Onboarding/Offboarding) no Microsoft Entra ID (Azure AD).
+* **Gestão de Ativos (ITAM):** Homologação, formatação, padronização de imagens e rastreabilidade de hardware corporativo.
+* **Automação & Processos:** Documentação técnica no Confluence e rotinas com PowerShell e Microsoft Graph API.
+
+**Estagiário de Infraestrutura & Desenvolvimento @ CF Contabilidade**  
+*Fevereiro de 2026 – Agosto de 2026 | Rio de Janeiro, RJ*
+* **Engenharia de Software:** Idealização e desenvolvimento de 3 portais operacionais e analíticos internos (TI Central Hub, Backoffice Hub e BI Royalties).
+* **Automação & ERPs:** Integração de pipelines assíncronas com n8n/Supabase e suporte ao ecossistema contábil corporativo (Domínio, Alterdata, Onvio).
 
 ---
 
@@ -27,6 +43,13 @@ Sou um desenvolvedor apaixonado por construir ecossistemas de software robustos,
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🛡️ Infraestrutura, Cloud & ITSM
+![Microsoft Azure](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 🚀 Ecossistemas em Destaque
@@ -37,22 +60,14 @@ Sou um desenvolvedor apaixonado por construir ecossistemas de software robustos,
 [🔗 Ver Repositório Preview](https://github.com/plfreitas/dashboard-sla-public)
 
 ### 🏢 Backoffice Hub — Orquestração de Processos & SLA
-* **Kanban & Faturamento Seguro:** Orquestração do onboarding/offboarding entre 4 setores contábeis com liberação de faturamento via 3 gatilhos síncronos obrigatoriedade.
+* **Kanban & Faturamento Seguro:** Orquestração do onboarding/offboarding entre 4 setores contábeis com liberação de faturamento via 3 gatilhos síncronos obrigatórios.
 * **Agenda In-App:** Integração nativa com Google Calendar API gerando salas de reunião automáticas.
 [🔗 Ver Repositório Preview](https://github.com/plfreitas/backoffice-dashboard-public)
 
 ### 📊 BI Royalties & Descontos — Motor Financeiro
-* **Cálculo Híbrido & Data Clean:** Algoritmo financeiro $\max(RF, RV)$ com alíquota de 12% e rotina `cleanFranchiseName` eliminando 100% de inconsistências de cadastro.
+* **Cálculo Híbrido & Data Clean:** Algoritmo financeiro $\max(RF, RV)$ com alíquota de 12% e rotina `cleanFranchiseName` eliminando inconsistências de cadastro.
 * **Trilha de Auditoria Compulsória:** Logs atômicos e imutáveis na tabela `audit_log` para conformidade fiscal.
 [🔗 Ver Repositório Preview](https://github.com/plfreitas/royalties-dashboard-public)
-
----
-
-## 💼 Experiência
-
-**Estagiário de Infraestrutura & Desenvolvimento @ CF Contabilidade**
-* **Engenharia de Software:** Idealização e desenvolvimento de 3 portais operacionais e analíticos internos (TI Central Hub, Backoffice Hub e BI Royalties).
-* **Automação & ERPs:** Integração de pipelines assíncronas com n8n/Supabase e suporte ao ecossistema contábil corporativo (Domínio, Alterdata, Onvio).
 
 ---
 
