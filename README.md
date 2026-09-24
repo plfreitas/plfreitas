@@ -14,10 +14,10 @@ Sou um desenvolvedor apaixonado por construir ecossistemas de software robustos,
 
 **IT Service Desk Intern | [Intelie](https://www.intelie.ai)**  
 *Setembro de 2026 – Presente | Rio de Janeiro, RJ*
-* **Suporte Técnico N1/N2 & Infraestrutura:** Atendimento presencial e remoto a colaboradores em ecossistemas Windows e macOS via Jira Service Management.
-* **Gestão de Identidade (IAM):** Provisionamento e ciclo de vida de contas (Onboarding/Offboarding) no Microsoft Entra ID (Azure AD).
-* **Gestão de Ativos (ITAM):** Homologação, formatação, padronização de imagens e rastreabilidade de hardware corporativo.
-* **Automação & Processos:** Documentação técnica no Confluence e rotinas com PowerShell e Microsoft Graph API.
+* **Suporte Corporativo Interno & Help Desk:** Atendimento presencial e remoto a colaboradores em ecossistemas Windows e macOS, triagem e análise de chamados via Jira Service Management.
+* **Gestão de Identidade (IAM):** Apoio ao ciclo de vida e governança de contas de colaboradores (Onboarding/Offboarding) no Microsoft Entra ID (Azure AD).
+* **Gestão de Ativos (ITAM):** Homologação, formatação, padronização de imagens corporativas e controle de inventário de hardware.
+* **Operações & Conhecimento:** Suporte técnico a eventos corporativos e elaboração de documentação técnica no Confluence.
 
 **Estagiário de Infraestrutura & Desenvolvimento @ CF Contabilidade**  
 *Fevereiro de 2026 – Agosto de 2026 | Rio de Janeiro, RJ*
