@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Luis! 👋
 
-### 🚀 IT Service Desk Intern na Intelie | Full Stack Developer | IA Agêntica amp; Automação | Python • React • SQL
+### 🚀 IT Service Desk Intern na Intelie | Full Stack Developer | IA Agêntica & Automação | Python • React • SQL
 
 > **Foco:** Arquitetura de Software Web, Agentes de IA (n8n/LangChain), Engenharia de Dados & Sistemas Operacionais Corporativos.
 >
